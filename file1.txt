@@ -1,3 +1,5 @@
 hello everyone
 
+
+updated by branch b2
 updated by branch b1
